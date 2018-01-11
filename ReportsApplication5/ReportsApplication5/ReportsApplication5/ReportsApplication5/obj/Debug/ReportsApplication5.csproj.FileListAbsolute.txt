@@ -1,0 +1,11 @@
+c:\users\labview\documents\visual studio 2013\Projects\ReportsApplication5\ReportsApplication5\bin\Debug\ReportsApplication5.exe.config
+c:\users\labview\documents\visual studio 2013\Projects\ReportsApplication5\ReportsApplication5\bin\Debug\ReportsApplication5.exe
+c:\users\labview\documents\visual studio 2013\Projects\ReportsApplication5\ReportsApplication5\bin\Debug\ReportsApplication5.pdb
+c:\users\labview\documents\visual studio 2013\Projects\ReportsApplication5\ReportsApplication5\obj\Debug\ReportsApplication5.Form1.resources
+c:\users\labview\documents\visual studio 2013\Projects\ReportsApplication5\ReportsApplication5\obj\Debug\ReportsApplication5.Properties.Resources.resources
+c:\users\labview\documents\visual studio 2013\Projects\ReportsApplication5\ReportsApplication5\obj\Debug\ReportsApplication5.csproj.GenerateResource.Cache
+c:\users\labview\documents\visual studio 2013\Projects\ReportsApplication5\ReportsApplication5\obj\Debug\RdlCompile.cache
+c:\users\labview\documents\visual studio 2013\Projects\ReportsApplication5\ReportsApplication5\obj\Debug\RdlCompile.compiled
+c:\users\labview\documents\visual studio 2013\Projects\ReportsApplication5\ReportsApplication5\obj\Debug\ReportsApplication5.exe
+c:\users\labview\documents\visual studio 2013\Projects\ReportsApplication5\ReportsApplication5\obj\Debug\ReportsApplication5.pdb
+C:\Users\LabView\documents\visual studio 2013\Projects\ReportsApplication5\ReportsApplication5\obj\Debug\ReportsApplication5.csprojResolveAssemblyReference.cache
